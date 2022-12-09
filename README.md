@@ -11,7 +11,11 @@ Além disso, o projeto conta com um aplicativo, que possui integração com serv
 
 
 
-<img src="D:\Users\Gui\Downloads\Tela de Login.png" alt="Tela de Login" style="zoom: 67%;" /><img src="D:\Users\Gui\Downloads\IoT_Smart Control.png" alt="IoT_Smart Control" style="zoom:67%;" />
+<img src="D:\Users\Gui\Downloads\Tela de Login.png" alt="Tela de Login" style="zoom: 67%;" />
+
+<img src="D:\Users\Gui\Downloads\IoT_Smart Control.png" alt="IoT_Smart Control" style="zoom:67%;" />
+
+
 
 
 
