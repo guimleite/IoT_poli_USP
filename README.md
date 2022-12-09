@@ -11,9 +11,11 @@ Além disso, o projeto conta com um aplicativo, que possui integração com serv
 
 
 
-<img src="https://user-images.githubusercontent.com/86362781/206602153-8387e6d0-d15b-450e-a762-377bceb55bec.png" alt="Tela de Login" style="zoom:67%;" />
+<img src="https://user-images.githubusercontent.com/86362781/206602153-8387e6d0-d15b-450e-a762-377bceb55bec.png" alt="Tela de Login" style="zoom: 40%;" />
 
-<img src="https://user-images.githubusercontent.com/86362781/206602280-c25fe105-c6e2-44b7-ac1f-5c6dea546dae.png" alt="IoT_Smart Control" style="zoom:67%;" />
+
+
+<img src="https://user-images.githubusercontent.com/86362781/206602280-c25fe105-c6e2-44b7-ac1f-5c6dea546dae.png" alt="IoT_Smart Control" style="zoom: 40%;" />
 
 
 
