@@ -7,7 +7,7 @@ Repositório para os códigos do projeto final do curso Sistemas Embarcados Para
 
 O presente repositório busca reproduzir um projeto de uma smart house. A casa em questão conta com diversos dispositivos IoT, que contém sensores para medir temperatura e humidade dos cômodos,  outros para detecção de comandos de voz ou reconhecimento facial.
 
-Além disso, o projeto conta com um aplicativo, que possui integração com serviços em nuvem. O aplicativo fica é disponível para android ou ios, pode enviar notificações de emergência, além de monitorar os ambientes.
+Além disso, o projeto conta com um aplicativo, que possui integração com serviços em nuvem. O aplicativo é disponível para android ou ios, pode enviar notificações de emergência, além de monitorar os ambientes.
 
 
 
